@@ -53,7 +53,7 @@ O comando 7 parece não funcionar nos eco da geração 1, não faço ideia do po
 8. Exclua tudo na caixa de texto e copie o texto de https://raw.githubusercontent.com/ndg63276/alexa-youtube/master/InteractionModel_en.json (ou use InteractionModel_fr.json, InteractionModel_it.json, InteractionModel_de.json, InteractionModel_es.json, InteractionModel_ja.json ou InteractionModel_pt-br.json para francês, italiano, alemão, espanhol, japonês ou português do Brasil.)
 9. Clique em "Salvar modelo" na parte superior.
 10. Clique em "Interfaces" no menu à esquerda e ative "Audio Player" e "Video App". Clique em "Salvar interfaces".
-11. Clique em "Ponto final" no menu à esquerda e selecione "AWS Lambda ARN". Em "Região Padrão", coloque o ARN. Você pode obter um ARN patrocinando-me em https://www.patreon.com/alexayoutube ou clicando no botão Patrocinador na parte superior desta página. (Se você quiser testar a habilidade antes de me patrocinar, coloque arn: aws: lambda: eu-west-1: 175548706300: function: YouTubeTest - mas isso só será reproduzido no estilo Gangnam.)
+11. Clique em "Ponto final" no menu à esquerda e selecione "AWS Lambda ARN". Em "Região Padrão", coloque o ARN. Você pode obter um ARN patrocinando-me em https://paypal.me/andrewstechshow ou clicando no botão Patrocinador na parte superior desta página. (Se você quiser testar a habilidade antes de me patrocinar, coloque arn: aws: lambda: eu-west-1: 175548706300: function: YouTubeTest - mas isso só será reproduzido no estilo Gangnam.)
 12. Clique em "Salvar pontos finais"
 13. Clique em "Permissões", na parte inferior esquerda.
 14. Ative "Listas de leitura" e "Listas de gravação".
